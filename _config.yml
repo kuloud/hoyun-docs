@@ -1,8 +1,15 @@
-title: Just the Docs Template
+title: Hoyun Docs
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
+favicon_ico: "/assets/images/favicon.ico"
+logo: "/assets/images/logo-with-text.svg"
+
+color_scheme: hoyun
+
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Docs on GitHub: https://github.com/just-the-docs/just-the-docs-template
+
+footer_content: "Copyright &copy; 2024 hoyun.net. All Rights Reserved."
